@@ -1,0 +1,23 @@
+# 로컬 에이전트 설정
+.claude/
+.agents/
+CLAUDE.local.md
+AGENTS.override.md
+
+# macOS
+.DS_Store
+
+# 비밀 값
+.env
+*.env
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+crash.log
+
+# Packer
+packer_cache/
+*.auto.pkrvars.hcl
