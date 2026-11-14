@@ -21,6 +21,8 @@ Proxmox VM 3대로 Kubernetes 클러스터를 만들고, 앱 배포와 노드 �
 
 앞 장의 상태를 이어서 사용하는 순차 실습, VM 기초 튜토리얼처럼 장마다 VM을 새로 만들지 않음
 
+명령 목록만 필요하면 [Kubernetes 명령어](../../reference/k8s-commands.md)
+
 ## 이번 실습의 선택
 
 | 항목 | 실습 구성 | 선택 이유 |

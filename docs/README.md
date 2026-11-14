@@ -17,6 +17,7 @@
 
 - [서버 정보](reference/server.md)
 - [qm 명령어](reference/qm-commands.md)
+- [Kubernetes 명령어](reference/k8s-commands.md)
 
 ## 튜토리얼
 
