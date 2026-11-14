@@ -21,3 +21,4 @@
 ## 튜토리얼
 
 - [VM 기초](tutorial/vm-basics/README.md)
+- [Kubernetes 기초 클러스터](tutorial/k8s-basics/README.md), kubeadm 기반 VM 3대 실습, 실행 검증 전
