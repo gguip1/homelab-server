@@ -5,3 +5,4 @@
 | 튜토리얼 | 내용 |
 |---|---|
 | [VM 기초](vm-basics/README.md) | VM 생성·접속·전원·사양 변경·디스크·스냅샷·복제·cloud-init·게스트 에이전트·콘솔·삭제 보호 |
+| [Kubernetes 기초 클러스터](k8s-basics/README.md) | VM 3대에 kubeadm·containerd·Flannel 설치, 앱 배포·노드 간 통신·정리, 실행 검증 전 |

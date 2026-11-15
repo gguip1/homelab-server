@@ -17,7 +17,9 @@
 
 - [서버 정보](reference/server.md)
 - [qm 명령어](reference/qm-commands.md)
+- [Kubernetes 명령어](reference/k8s-commands.md)
 
 ## 튜토리얼
 
 - [VM 기초](tutorial/vm-basics/README.md)
+- [Kubernetes 기초 클러스터](tutorial/k8s-basics/README.md), kubeadm 기반 VM 3대 실습, 실행 검증 전
